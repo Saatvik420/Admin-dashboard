@@ -136,3 +136,6 @@ DummyJSON (https://dummyjson.com/): A third-party fake API used for demonstratin
 localStorage (Web Storage API): For persisting user preferences, such as the selected theme (light/dark mode).
 Date Object (Built-in JavaScript): For handling and displaying live date and time information.
 setInterval() (Built-in JavaScript Web API): For continuously updating the live date and time.
+
+
+deployed link:- saatvik-admin-dashboard.netlify.app
